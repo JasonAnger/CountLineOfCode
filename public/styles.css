@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 35vh;
+}
+#result {
+    width: 60vw;
+    height: 30vh;
+    background-color: #cfcfcf;
+    border-radius: 10px;
+    margin: 20px 20vw;
+    text-align: left;
+}
+
+#result b {
+    margin-left: 20vw;
+}
+
